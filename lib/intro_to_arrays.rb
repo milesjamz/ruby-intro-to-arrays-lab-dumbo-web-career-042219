@@ -18,5 +18,5 @@ def last_element(argument)
 end
 def first_element_with_array_methods(argument)
   myArray = ["this", "is", "a", "new one"]
-  
+  myArray.first
 end
