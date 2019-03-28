@@ -16,5 +16,7 @@ def last_element(argument)
   myArray = ["hello", "how", "are", "Out of The Woods"]
   myArray[-1]
 end
-def first_element_with_array_methods
+def first_element_with_array_methods(argument)
+  myArray = ["this", "is", "a", "new one"]
+  
 end
