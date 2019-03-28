@@ -21,10 +21,10 @@ def first_element_with_array_methods(argument)
   myArray.first
 end
 def last_element_with_array_methods(argument)
-  myArray = ["this", "is", "a", "new one"]
+  myArray = ["this", "is", "a", "Myanmar"]
   myArray.last
 end
 def length_of_array(argument)
-  myArray = ["this", "is", "a", "new one"]
+  myArray = ["this", "is", "a", "new one", "oh", "no", "just", "killing time"]
   myArray.length
 end
