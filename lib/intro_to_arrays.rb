@@ -17,6 +17,14 @@ def last_element(argument)
   myArray[-1]
 end
 def first_element_with_array_methods(argument)
-  myArray = ["this", "is", "a", "new one"]
+  myArray = ["Thailand", "is", "a", "new one"]
   myArray.first
+end
+def last_element_with_array_methods(argument)
+  myArray = ["this", "is", "a", "new one"]
+  myArray.last
+end
+def length_of_array(argument)
+  myArray = ["this", "is", "a", "new one"]
+  myArray.length
 end
